@@ -1,0 +1,17 @@
+{"components":[
+    {"name":"hetbam2counts.sh",
+     "location":"/usr/local3/bin/ase-1.00",
+     "type":"executable",
+     "description":"Heterozygote RNAseq BAM to counts file",
+   "version":"1.00",
+     "attribution":"Uses VCF variant data and a heterozygote RNAseq BAM to generate allele-specific per-gene read counts",
+     "implementation":
+    {"implementor_email":"vaughn@iplantcollaborative.org",
+     "implementor":"vaughn",
+     "test":
+        {"params":[]}}}
+     ],
+ "templates":[],
+ "analyses":[]
+}
+
